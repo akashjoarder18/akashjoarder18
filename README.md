@@ -6,8 +6,6 @@ A highly resourceful, innovative, and competent PHP developer with extensive exp
 
 Skills: VUE JS / REACT / JS / HTML / CSS / PHP / LARAVEL / MYSQL
 
-- 🔭 I’m currently working on this page. 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akashjoarde18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sayed.momin)  
 
